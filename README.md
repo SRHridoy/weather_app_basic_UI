@@ -23,7 +23,7 @@ Here are some screenshots of the Weather App:
 
 | Splash Screen | 7-Day Forecast |
 |--------------|---------------|
-| ![Splash Screen](s/readmeImg/splash_screen.jpg) | ![7-Day Forecast](/readmeImg/forecast_screen.jpg) |
+| ![splash.jpg](readmeImg%2Fsplash.jpg) | ![weeklycast.jpg](readmeImg%2Fweeklycast.jpg) |
 
 > **Note:** If the images do not display, ensure the files are present in `assets/readmeImg/` and the paths are correct.
 
